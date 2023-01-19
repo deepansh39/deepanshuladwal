@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @deepanshuladwal
-- 👀 I’m interested in hacking 
-- 🌱 I’m currently learning web fundamental 
-     
+- 👋 Hi, I’m @deepanshuladwal 
+- 👀 I’m do bud hunter
+- 🌱 I keep diging myself so that i can extract best output 
+- my faith and trust shiv  
+  
 
 
 <!---
